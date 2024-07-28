@@ -15,7 +15,9 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongoose": "^8.5.1",
+    "netlify-cli": "^17.33.4",
     "nodemon": "^3.1.4",
+    "serverless-http": "^3.2.0",
     "uuid": "^10.0.0"
   }
 }
